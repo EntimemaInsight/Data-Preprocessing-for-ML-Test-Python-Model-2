@@ -35,4 +35,5 @@ KMeans clustering is utilized to identify outliers by grouping data points into 
 3. Scaling:
 Scaling is applied to the dataset before using distance-based algorithms like KMeans clustering. Scaling ensures that all features contribute equally and prevents any single feature from overshadowing others.
 
-## 
+## Credits
+This project was created by Aleksandar Dimitrov and is licensed under the MIT License. If you have any questions or comments, feel free to contact me at alexi.zein@gmail.com.
